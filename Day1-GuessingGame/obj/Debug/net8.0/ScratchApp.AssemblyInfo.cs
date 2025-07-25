@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScratchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc175bee4f8a3b938c4a1fe67ede02c80778eb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d48c9c6cc0aa350ff5b06162c751ecd7aa7035d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScratchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScratchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

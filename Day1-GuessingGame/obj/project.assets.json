@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj",
+      "projectUniqueName": "/Users/macbook/Desktop/ScratchApp/Day1-GuessingGame/ScratchApp.csproj",
       "projectName": "ScratchApp",
-      "projectPath": "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj",
+      "projectPath": "/Users/macbook/Desktop/ScratchApp/Day1-GuessingGame/ScratchApp.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Desktop/ScratchApp/obj/",
+      "outputPath": "/Users/macbook/Desktop/ScratchApp/Day1-GuessingGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj": {}
+    "/Users/macbook/Desktop/ScratchApp/Day2-MenuApp/Day2-MenuApp.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj": {
+    "/Users/macbook/Desktop/ScratchApp/Day2-MenuApp/Day2-MenuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj",
-        "projectName": "ScratchApp",
-        "projectPath": "/Users/macbook/Desktop/ScratchApp/ScratchApp.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/ScratchApp/Day2-MenuApp/Day2-MenuApp.csproj",
+        "projectName": "Day2-MenuApp",
+        "projectPath": "/Users/macbook/Desktop/ScratchApp/Day2-MenuApp/Day2-MenuApp.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/ScratchApp/obj/",
+        "outputPath": "/Users/macbook/Desktop/ScratchApp/Day2-MenuApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"
