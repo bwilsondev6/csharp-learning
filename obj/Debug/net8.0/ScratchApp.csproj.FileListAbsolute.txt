@@ -12,3 +12,4 @@
 /Users/macbook/Desktop/ScratchApp/obj/Debug/net8.0/ScratchApp.pdb
 /Users/macbook/Desktop/ScratchApp/obj/Debug/net8.0/ScratchApp.genruntimeconfig.cache
 /Users/macbook/Desktop/ScratchApp/obj/Debug/net8.0/ref/ScratchApp.dll
+/Users/macbook/Desktop/ScratchApp/obj/Debug/net8.0/ScratchApp.sourcelink.json
