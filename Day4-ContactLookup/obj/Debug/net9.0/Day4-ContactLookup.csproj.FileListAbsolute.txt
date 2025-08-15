@@ -1,0 +1,15 @@
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.AssemblyInfoInputs.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.AssemblyInfo.cs
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.csproj.CoreCompileInputs.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.sourcelink.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/bin/Debug/net9.0/Day4-ContactLookup
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/bin/Debug/net9.0/Day4-ContactLookup.deps.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/bin/Debug/net9.0/Day4-ContactLookup.runtimeconfig.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/bin/Debug/net9.0/Day4-ContactLookup.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/bin/Debug/net9.0/Day4-ContactLookup.pdb
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/refint/Day4-ContactLookup.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.pdb
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/Day4-ContactLookup.genruntimeconfig.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day4-ContactLookup/obj/Debug/net9.0/ref/Day4-ContactLookup.dll
