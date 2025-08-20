@@ -1,0 +1,15 @@
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.AssemblyInfoInputs.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.AssemblyInfo.cs
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.sourcelink.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/bin/Debug/net9.0/Day3-CalculatorApp
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/bin/Debug/net9.0/Day3-CalculatorApp.deps.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/bin/Debug/net9.0/Day3-CalculatorApp.runtimeconfig.json
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/bin/Debug/net9.0/Day3-CalculatorApp.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/bin/Debug/net9.0/Day3-CalculatorApp.pdb
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/refint/Day3-CalculatorApp.dll
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.pdb
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/Day3-CalculatorApp.genruntimeconfig.cache
+/Users/bwilson/Documents/Coding/csharp-learning/Day3-CalculatorApp/obj/Debug/net9.0/ref/Day3-CalculatorApp.dll

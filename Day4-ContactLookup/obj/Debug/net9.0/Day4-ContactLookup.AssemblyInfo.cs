@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day4-ContactLookup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b659630096d5ca57f21c564c95c7e28de200f55a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be72b9e8b11de9a4eff10e4fa00827be6d528ed8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day4-ContactLookup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day4-ContactLookup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
